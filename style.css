@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("tipos-de-paisaje-natural.jpeg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(136, 115, 115); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgb(0, 0, 0); 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #6b69c8;
+    border: rgb(79, 142, 85) (111, 172, 164);
+    color: rgb(201, 172, 242);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
